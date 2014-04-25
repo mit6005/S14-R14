@@ -3,3 +3,5 @@
 The `words` package contains initial code for the Word Finder GUI.
 
 The `github` package contains initial code for the GitHub event notifier GUI.
+
+And the `staff` package contains example implementations.
